@@ -553,12 +553,12 @@ amounts
 A requirement, in pursuance of a scheme decision under rule 3.2(c), that each
 owner deposit a sum of money:
 
- (a) exceeding £100, or
+ (a) exceeding Â£100, or
 
- (b) of £100 or less where the aggregate of that sum taken together with any other
+ (b) of Â£100 or less where the aggregate of that sum taken together with any other
      sum or sums required (otherwise than by a previous notice under this rule) in the
      preceding 12 months to be deposited by each owner by virtue any scheme decision
-     under rule 3.2(c) exceeds £200,
+     under rule 3.2(c) exceeds Â£200,
 
 shall be made by written notice to each owner and shall require the sum to be
 deposited into such account (the "maintenance account") as the owners may
